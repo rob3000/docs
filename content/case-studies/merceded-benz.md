@@ -1,7 +1,5 @@
 ---
 title: Mercedes-Benz Research and Development
-type: page
-layout: case-study
 
 meta_desc: |
     Learn more about how Mercedes-Benz Research and Development used Pulumi to bring their

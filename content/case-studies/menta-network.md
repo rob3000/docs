@@ -1,7 +1,6 @@
 ---
 title: Menta Network
-type: page
-layout: case-study
+layout: case-studies
 
 meta_desc: |
     Learn how Menta Network used Pulumi to lower its operating costs by automating the
